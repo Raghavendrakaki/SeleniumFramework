@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-27T11:14:52Z" name="Suite" finished-at="2023-01-27T11:15:08Z" duration-ms="15808">
+    <groups>
+    </groups>
+    <test started-at="2023-01-27T11:14:52Z" name="Test" finished-at="2023-01-27T11:15:08Z" duration-ms="15808">
+      <class name="testScripts.LetsShop">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testScripts.LetsShop@f9879ac]" started-at="2023-01-27T16:44:42Z" name="setup" finished-at="2023-01-27T16:44:52Z" duration-ms="10300" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="mainTest()[pri:0, instance:testScripts.LetsShop@f9879ac]" started-at="2023-01-27T16:44:52Z" name="mainTest" finished-at="2023-01-27T16:45:08Z" duration-ms="15771" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method is-config="true" signature="resudes()[pri:0, instance:testScripts.LetsShop@f9879ac]" started-at="2023-01-27T16:45:08Z" name="resudes" finished-at="2023-01-27T16:45:09Z" duration-ms="1045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- resudes -->
+      </class> <!-- testScripts.LetsShop -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
