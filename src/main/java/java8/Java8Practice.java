@@ -30,7 +30,7 @@ public class Java8Practice {
 		productsList.add(new Product(3, "Lenevo Laptop", 28000f));
 		productsList.add(new Product(4, "Sony Laptop", 28000f));
 		productsList.add(new Product(5, "Apple Laptop", 90000f));
-		
+		System.out.println("Test GIT");
 		List m = productsList.stream().map(k->k.price).collect(Collectors.toList());
 		System.out.println(m);
 		Set<Float> m1 = productsList.stream().map(k->k.price).collect(Collectors.toSet());
